@@ -38,6 +38,8 @@ public class NewBinaryInsert{
    this.key=key;
    this.name = name;
    
+   
+   
   }
   
   public String toString()
