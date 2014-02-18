@@ -18,6 +18,7 @@ public class BinarySearchingPart {
          BinarySearchingPart theTree = new BinarySearchingPart();
               System.out.println("Search for 20");
                System.out.println(theTree.findNode(20));
+            
                
                
     }
