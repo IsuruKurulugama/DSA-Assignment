@@ -67,6 +67,7 @@ public class NewBinaryInsert{
    {
     focusNode = focusNode.RightChild;
     
+    
    }
    
    if(focusNode == null)
